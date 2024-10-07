@@ -1,7 +1,7 @@
 # LITA_Class_Documentation
 Documentation of my Projects while learning Data Analysis
 
-### Project Title: Parch and Posey Analysis
+### Project Title: International Breweries Analysis
 
 [Project Overview](#project-overview)
 
@@ -18,7 +18,7 @@ Documentation of my Projects while learning Data Analysis
 [Data Visualization](#data-visualization)
 ### Project Overview
 ---
-This Project aims to  analyze an hypothetical Company called LITA plc. it involves the creation and population of the employee and payment table whuch contaims Employee information and payent details 
+This Project aims to  analyze an hypothetical Company called LITA plc. it involves the creation and population of the employee and payment table whuch contaims Employee information and payent details.
 
 ### Data Sources
  The primary source of Data used here is a csv file of this company as provided to us
@@ -36,7 +36,9 @@ This Project aims to  analyze an hypothetical Company called LITA plc. it involv
   - Data Cleaning and Formatting
  
 ### Exploratory Data Analysis
-  This involved Exploring of Data to answer 10 analytical Questions such as;
+  This involved Exploring of Data to answer basic questions;
+
+  
 
    ### Data Analysis
  This is where we include some basic lines of code or queries or even some of the DAX Expression used during the analysis
