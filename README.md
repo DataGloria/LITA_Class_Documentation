@@ -38,7 +38,12 @@ This Project aims to  analyze an hypothetical Company called LITA plc. it involv
 ### Exploratory Data Analysis
   This involved Exploring of Data to answer 10 analytical Questions such as;
 
-  SELECT Staffid, firstname, gender, state_of_origin, Age,
+   ### Data Analysis
+ This is where we include some basic lines of code or queries or even some of the DAX Expression used during the analysis
+
+ ```SQL
+
+SELECT Staffid, firstname, gender, state_of_origin, Age,
 CASE
 	WHEN Age>=60 THEN 'Senior Executive'
 	WHEN Age BETWEEN 40 AND 59 THEN 'Senior Manager'
@@ -47,9 +52,10 @@ CASE
 	ELSE 'Unknown'
 END AS Age_Group
 FROM Employee
+```
 
 
- ### Data Analysis
- This is where we include some basic lines of code or queries or even some of the DAX Expression used during the analysis
+ ### Data Visualization
+
 
  ```SQL
