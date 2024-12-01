@@ -61,4 +61,7 @@ ORDER BY 3 DESC
 
 
  ### Data Visualization
-This Data visualization is an HR data 
+This Data visualization is an HR data of anothe project
+
+![Screenshot 2024-12-01 215106](https://github.com/user-attachments/assets/463489c7-0d11-41a9-ac73-1315c08319ca)
+
